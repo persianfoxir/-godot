@@ -14,7 +14,7 @@ func _ready():
 
 func _on_hi_pressed():
     get_tree().change_scene("ادرس صفح بعدی")
-    ```
+```
 
 حالا کافیه تا ادرس صفحه بعدی رو جایگزار کنید
 ادرس صفحه باید این مدلی باشه res://path/to/next.tscn
